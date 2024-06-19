@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 console.log("%c Malik Web","font-weight:bold;color:#fbc121;font-family:Tahoma;font-size:20px;background: #424242;padding:6px 12px;border-radius:8px;");
 console.log("%c Plateforme       : Blogger", "color:#fbc121;background:#424242;font-size:12px;padding:6px;border-radius:6px;");
-console.log("%c Template Name    : Mega Plus Pro (En)", "color:#fbc121;background:#424242;font-size:12px;padding:6px;border-radius:6px;");
+console.log("%c Template Name    : Mega Plus (En)", "color:#fbc121;background:#424242;font-size:12px;padding:6px;border-radius:6px;");
 console.log("%c Template Version : 2.0 BETA", "color:#fbc121;background:#424242;font-size:12px;padding:6px;border-radius:6px;");
 console.log("%c Update           : June - 2024", "color:#fbc121;background:#424242;font-size:12px;padding:6px;border-radius:6px;");
 console.log("%c Development by   : Kariem Malik", "color:#fbc121;background:#424242;font-size:12px;padding:6px;border-radius:6px;");
